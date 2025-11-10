@@ -1,0 +1,33 @@
+F:\SUMMER 2020\In Work\4 Mouse Coordinates\CursorDuplicator\CursorDuplicator\bin\Release\CursorDuplicator.exe.config
+F:\SUMMER 2020\In Work\4 Mouse Coordinates\CursorDuplicator\CursorDuplicator\bin\Release\CursorDuplicator.exe.manifest
+F:\SUMMER 2020\In Work\4 Mouse Coordinates\CursorDuplicator\CursorDuplicator\bin\Release\CursorDuplicator.application
+F:\SUMMER 2020\In Work\4 Mouse Coordinates\CursorDuplicator\CursorDuplicator\bin\Release\CursorDuplicator.exe
+F:\SUMMER 2020\In Work\4 Mouse Coordinates\CursorDuplicator\CursorDuplicator\bin\Release\CursorDuplicator.pdb
+F:\SUMMER 2020\In Work\4 Mouse Coordinates\CursorDuplicator\CursorDuplicator\bin\Release\Gma.UserActivityMonitor.dll
+F:\SUMMER 2020\In Work\4 Mouse Coordinates\CursorDuplicator\CursorDuplicator\obj\Release\CursorDuplicator.csprojAssemblyReference.cache
+F:\SUMMER 2020\In Work\4 Mouse Coordinates\CursorDuplicator\CursorDuplicator\obj\Release\CursorDuplicator.Form1.resources
+F:\SUMMER 2020\In Work\4 Mouse Coordinates\CursorDuplicator\CursorDuplicator\obj\Release\CursorDuplicator.Properties.Resources.resources
+F:\SUMMER 2020\In Work\4 Mouse Coordinates\CursorDuplicator\CursorDuplicator\obj\Release\CursorDuplicator.csproj.GenerateResource.cache
+F:\SUMMER 2020\In Work\4 Mouse Coordinates\CursorDuplicator\CursorDuplicator\obj\Release\CursorDuplicator.csproj.CoreCompileInputs.cache
+F:\SUMMER 2020\In Work\4 Mouse Coordinates\CursorDuplicator\CursorDuplicator\obj\Release\CursorDuplicator.exe.manifest
+F:\SUMMER 2020\In Work\4 Mouse Coordinates\CursorDuplicator\CursorDuplicator\obj\Release\CursorDuplicator.application
+F:\SUMMER 2020\In Work\4 Mouse Coordinates\CursorDuplicator\CursorDuplicator\obj\Release\CursorDuplicator.csproj.CopyComplete
+F:\SUMMER 2020\In Work\4 Mouse Coordinates\CursorDuplicator\CursorDuplicator\obj\Release\CursorDuplicator.exe
+F:\SUMMER 2020\In Work\4 Mouse Coordinates\CursorDuplicator\CursorDuplicator\obj\Release\CursorDuplicator.pdb
+F:\SUMMER 2020\In Work\5 Mouse Coordinates Pt2\CursorDuplicator\CursorDuplicator\bin\Release\CursorDuplicator.exe.config
+F:\SUMMER 2020\In Work\5 Mouse Coordinates Pt2\CursorDuplicator\CursorDuplicator\bin\Release\CursorDuplicator.exe.manifest
+F:\SUMMER 2020\In Work\5 Mouse Coordinates Pt2\CursorDuplicator\CursorDuplicator\bin\Release\CursorDuplicator.application
+F:\SUMMER 2020\In Work\5 Mouse Coordinates Pt2\CursorDuplicator\CursorDuplicator\bin\Release\CursorDuplicator.exe
+F:\SUMMER 2020\In Work\5 Mouse Coordinates Pt2\CursorDuplicator\CursorDuplicator\bin\Release\CursorDuplicator.pdb
+F:\SUMMER 2020\In Work\5 Mouse Coordinates Pt2\CursorDuplicator\CursorDuplicator\bin\Release\Gma.UserActivityMonitor.dll
+F:\SUMMER 2020\In Work\5 Mouse Coordinates Pt2\CursorDuplicator\CursorDuplicator\obj\Release\CursorDuplicator.csprojAssemblyReference.cache
+F:\SUMMER 2020\In Work\5 Mouse Coordinates Pt2\CursorDuplicator\CursorDuplicator\obj\Release\CursorDuplicator.Form1.resources
+F:\SUMMER 2020\In Work\5 Mouse Coordinates Pt2\CursorDuplicator\CursorDuplicator\obj\Release\CursorDuplicator.Form2.resources
+F:\SUMMER 2020\In Work\5 Mouse Coordinates Pt2\CursorDuplicator\CursorDuplicator\obj\Release\CursorDuplicator.Properties.Resources.resources
+F:\SUMMER 2020\In Work\5 Mouse Coordinates Pt2\CursorDuplicator\CursorDuplicator\obj\Release\CursorDuplicator.csproj.GenerateResource.cache
+F:\SUMMER 2020\In Work\5 Mouse Coordinates Pt2\CursorDuplicator\CursorDuplicator\obj\Release\CursorDuplicator.csproj.CoreCompileInputs.cache
+F:\SUMMER 2020\In Work\5 Mouse Coordinates Pt2\CursorDuplicator\CursorDuplicator\obj\Release\CursorDuplicator.exe.manifest
+F:\SUMMER 2020\In Work\5 Mouse Coordinates Pt2\CursorDuplicator\CursorDuplicator\obj\Release\CursorDuplicator.application
+F:\SUMMER 2020\In Work\5 Mouse Coordinates Pt2\CursorDuplicator\CursorDuplicator\obj\Release\CursorDuplicator.csproj.CopyComplete
+F:\SUMMER 2020\In Work\5 Mouse Coordinates Pt2\CursorDuplicator\CursorDuplicator\obj\Release\CursorDuplicator.exe
+F:\SUMMER 2020\In Work\5 Mouse Coordinates Pt2\CursorDuplicator\CursorDuplicator\obj\Release\CursorDuplicator.pdb

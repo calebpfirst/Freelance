@@ -1,0 +1,35 @@
+F:\SUMMER 2020\In Work\4 Mouse Coordinates\CursorDuplicator\CursorDuplicator\bin\Debug\CursorDuplicator.exe.config
+F:\SUMMER 2020\In Work\4 Mouse Coordinates\CursorDuplicator\CursorDuplicator\bin\Debug\CursorDuplicator.exe
+F:\SUMMER 2020\In Work\4 Mouse Coordinates\CursorDuplicator\CursorDuplicator\bin\Debug\CursorDuplicator.pdb
+F:\SUMMER 2020\In Work\4 Mouse Coordinates\CursorDuplicator\CursorDuplicator\bin\Debug\Gma.UserActivityMonitor.dll
+F:\SUMMER 2020\In Work\4 Mouse Coordinates\CursorDuplicator\CursorDuplicator\bin\Debug\Gma.UserActivityMonitor.pdb
+F:\SUMMER 2020\In Work\4 Mouse Coordinates\CursorDuplicator\CursorDuplicator\obj\Debug\CursorDuplicator.csprojAssemblyReference.cache
+F:\SUMMER 2020\In Work\4 Mouse Coordinates\CursorDuplicator\CursorDuplicator\obj\Debug\CursorDuplicator.Form1.resources
+F:\SUMMER 2020\In Work\4 Mouse Coordinates\CursorDuplicator\CursorDuplicator\obj\Debug\CursorDuplicator.Properties.Resources.resources
+F:\SUMMER 2020\In Work\4 Mouse Coordinates\CursorDuplicator\CursorDuplicator\obj\Debug\CursorDuplicator.csproj.GenerateResource.cache
+F:\SUMMER 2020\In Work\4 Mouse Coordinates\CursorDuplicator\CursorDuplicator\obj\Debug\CursorDuplicator.csproj.CoreCompileInputs.cache
+F:\SUMMER 2020\In Work\4 Mouse Coordinates\CursorDuplicator\CursorDuplicator\obj\Debug\CursorDuplicator.csproj.CopyComplete
+F:\SUMMER 2020\In Work\4 Mouse Coordinates\CursorDuplicator\CursorDuplicator\obj\Debug\CursorDuplicator.exe
+F:\SUMMER 2020\In Work\4 Mouse Coordinates\CursorDuplicator\CursorDuplicator\obj\Debug\CursorDuplicator.pdb
+F:\SUMMER 2020\In Work\4 Mouse Coordinates\CursorDuplicator\CursorDuplicator\bin\Debug\CursorDuplicator.exe.manifest
+F:\SUMMER 2020\In Work\4 Mouse Coordinates\CursorDuplicator\CursorDuplicator\bin\Debug\CursorDuplicator.application
+F:\SUMMER 2020\In Work\4 Mouse Coordinates\CursorDuplicator\CursorDuplicator\obj\Debug\CursorDuplicator.exe.manifest
+F:\SUMMER 2020\In Work\4 Mouse Coordinates\CursorDuplicator\CursorDuplicator\obj\Debug\CursorDuplicator.application
+F:\SUMMER 2020\In Work\5 Mouse Coordinates Pt2\CursorDuplicator\CursorDuplicator\bin\Debug\Gma.UserActivityMonitor.dll
+F:\SUMMER 2020\In Work\5 Mouse Coordinates Pt2\CursorDuplicator\CursorDuplicator\bin\Debug\Gma.UserActivityMonitor.pdb
+F:\SUMMER 2020\In Work\5 Mouse Coordinates Pt2\CursorDuplicator\CursorDuplicator\obj\Debug\CursorDuplicator.csprojAssemblyReference.cache
+F:\SUMMER 2020\In Work\5 Mouse Coordinates Pt2\CursorDuplicator\CursorDuplicator\obj\Debug\CursorDuplicator.Form1.resources
+F:\SUMMER 2020\In Work\5 Mouse Coordinates Pt2\CursorDuplicator\CursorDuplicator\obj\Debug\CursorDuplicator.csproj.GenerateResource.cache
+F:\SUMMER 2020\In Work\5 Mouse Coordinates Pt2\CursorDuplicator\CursorDuplicator\obj\Debug\CursorDuplicator.csproj.CoreCompileInputs.cache
+F:\SUMMER 2020\In Work\5 Mouse Coordinates Pt2\CursorDuplicator\CursorDuplicator\obj\Debug\CursorDuplicator.csproj.CopyComplete
+F:\SUMMER 2020\In Work\5 Mouse Coordinates Pt2\CursorDuplicator\CursorDuplicator\obj\Debug\CursorDuplicator.Form2.resources
+F:\SUMMER 2020\In Work\5 Mouse Coordinates Pt2\CursorDuplicator\CursorDuplicator\bin\Debug\CursorDuplicatorv2.exe.config
+F:\SUMMER 2020\In Work\5 Mouse Coordinates Pt2\CursorDuplicator\CursorDuplicator\bin\Debug\CursorDuplicatorv2.exe.manifest
+F:\SUMMER 2020\In Work\5 Mouse Coordinates Pt2\CursorDuplicator\CursorDuplicator\bin\Debug\CursorDuplicatorv2.application
+F:\SUMMER 2020\In Work\5 Mouse Coordinates Pt2\CursorDuplicator\CursorDuplicator\bin\Debug\CursorDuplicatorv2.exe
+F:\SUMMER 2020\In Work\5 Mouse Coordinates Pt2\CursorDuplicator\CursorDuplicator\bin\Debug\CursorDuplicatorv2.pdb
+F:\SUMMER 2020\In Work\5 Mouse Coordinates Pt2\CursorDuplicator\CursorDuplicator\obj\Debug\CursorDuplicatorv2.Properties.Resources.resources
+F:\SUMMER 2020\In Work\5 Mouse Coordinates Pt2\CursorDuplicator\CursorDuplicator\obj\Debug\CursorDuplicatorv2.exe.manifest
+F:\SUMMER 2020\In Work\5 Mouse Coordinates Pt2\CursorDuplicator\CursorDuplicator\obj\Debug\CursorDuplicatorv2.application
+F:\SUMMER 2020\In Work\5 Mouse Coordinates Pt2\CursorDuplicator\CursorDuplicator\obj\Debug\CursorDuplicatorv2.exe
+F:\SUMMER 2020\In Work\5 Mouse Coordinates Pt2\CursorDuplicator\CursorDuplicator\obj\Debug\CursorDuplicatorv2.pdb

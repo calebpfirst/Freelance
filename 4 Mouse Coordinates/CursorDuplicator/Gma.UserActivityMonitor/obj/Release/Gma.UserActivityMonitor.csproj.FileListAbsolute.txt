@@ -1,0 +1,4 @@
+F:\SUMMER 2020\In Work\4 Mouse Coordinates\CursorDuplicator\Gma.UserActivityMonitor\bin\Release\Gma.UserActivityMonitor.dll
+F:\SUMMER 2020\In Work\4 Mouse Coordinates\CursorDuplicator\Gma.UserActivityMonitor\obj\Release\Gma.UserActivityMonitor.csprojAssemblyReference.cache
+F:\SUMMER 2020\In Work\4 Mouse Coordinates\CursorDuplicator\Gma.UserActivityMonitor\obj\Release\Gma.UserActivityMonitor.csproj.CoreCompileInputs.cache
+F:\SUMMER 2020\In Work\4 Mouse Coordinates\CursorDuplicator\Gma.UserActivityMonitor\obj\Release\Gma.UserActivityMonitor.dll

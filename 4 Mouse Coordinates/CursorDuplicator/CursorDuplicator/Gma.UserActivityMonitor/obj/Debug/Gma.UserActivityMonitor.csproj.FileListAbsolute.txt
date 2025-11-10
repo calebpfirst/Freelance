@@ -1,0 +1,14 @@
+C:\Users\ip394e\Downloads\globalhook2_src\GlobalHook\Gma.UserActivityMonitor\bin\Debug\Gma.xml
+C:\Users\ip394e\Downloads\globalhook2_src\GlobalHook\Gma.UserActivityMonitor\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\ip394e\Downloads\globalhook2_src\GlobalHook\Gma.UserActivityMonitor\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\ip394e\Downloads\globalhook2_src\GlobalHook\Gma.UserActivityMonitor\obj\Debug\Gma.UserActivityMonitor.csprojAssemblyReference.cache
+C:\Users\ip394e\Downloads\globalhook2_src\GlobalHook\Gma.UserActivityMonitor\obj\Debug\Gma.UserActivityMonitor.csproj.CoreCompileInputs.cache
+C:\Users\ip394e\Downloads\globalhook2_src\GlobalHook\Gma.UserActivityMonitor\obj\Debug\Gma.UserActivityMonitor.dll
+C:\Users\ip394e\Downloads\globalhook2_src\GlobalHook\Gma.UserActivityMonitor\obj\Debug\Gma.UserActivityMonitor.pdb
+F:\SUMMER 2020\In Work\4 Mouse Coordinates\CursorDuplicator\Gma.UserActivityMonitor\bin\Debug\Gma.xml
+F:\SUMMER 2020\In Work\4 Mouse Coordinates\CursorDuplicator\Gma.UserActivityMonitor\bin\Debug\Gma.UserActivityMonitor.dll
+F:\SUMMER 2020\In Work\4 Mouse Coordinates\CursorDuplicator\Gma.UserActivityMonitor\bin\Debug\Gma.UserActivityMonitor.pdb
+F:\SUMMER 2020\In Work\4 Mouse Coordinates\CursorDuplicator\Gma.UserActivityMonitor\obj\Debug\Gma.UserActivityMonitor.csprojAssemblyReference.cache
+F:\SUMMER 2020\In Work\4 Mouse Coordinates\CursorDuplicator\Gma.UserActivityMonitor\obj\Debug\Gma.UserActivityMonitor.csproj.CoreCompileInputs.cache
+F:\SUMMER 2020\In Work\4 Mouse Coordinates\CursorDuplicator\Gma.UserActivityMonitor\obj\Debug\Gma.UserActivityMonitor.dll
+F:\SUMMER 2020\In Work\4 Mouse Coordinates\CursorDuplicator\Gma.UserActivityMonitor\obj\Debug\Gma.UserActivityMonitor.pdb
